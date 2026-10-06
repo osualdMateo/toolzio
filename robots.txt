@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add your sitemap URL after choosing your final public domain.
+# Sitemap: https://YOUR-DOMAIN.example/sitemap.xml

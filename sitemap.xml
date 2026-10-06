@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN.example before public launch. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/terms.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/tools/qr.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/tools/image-resizer.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/tools/image-compressor.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/tools/percentage.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/tools/pdf-merger.html</loc></url>
+</urlset>
